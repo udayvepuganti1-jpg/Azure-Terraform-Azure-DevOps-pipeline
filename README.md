@@ -16,3 +16,11 @@ This project demonstrates how to deploy an **Azure Virtual Machine** using **Ter
 ---
 
 ## 📂 Project Structure
+azure-vm-terraform/
+│── main.tf
+│── variables.tf
+│── outputs.tf
+│── terraform.tfvars
+│── backend.tf
+│── azure-pipelines.yml
+│── README.md
